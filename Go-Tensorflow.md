@@ -18,6 +18,6 @@ Overview:
 ***NOTICE***:For the slow download speed of opencv4.1 and opencv_contrib4.1, i submit the package to the server to accelerate the download speed.
 
 3.GO-Tensorflow compile
----------------------------------
+--------------------------------
 ###Step1:Download BAZEL to compile tensorflow
 https://docs.bazel.build/versions/master/install-compile-source.html
