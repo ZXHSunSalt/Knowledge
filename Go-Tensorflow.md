@@ -15,8 +15,8 @@ Overview:
 2.Install GO
 ---------------------------------
 ### According your system to download the install package from [golang official webside](https://golang.org/)
-    When you click the download item, it will jump to the next page and it shows you how to install golang.
-    For example:install linux-amd64 GO referring to this link:https://golang.org/doc/install?download=go1.11.11.linux-amd64.tar.gz
+   When you click the download item, it will jump to the next page and it shows you how to install golang.
+   For example:install linux-amd64 GO referring to this link:https://golang.org/doc/install?download=go1.11.11.linux-amd64.tar.gz
 
 3.GOCV Install
 ---------------------------------
