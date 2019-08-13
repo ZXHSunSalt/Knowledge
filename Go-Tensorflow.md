@@ -31,7 +31,8 @@ Overview:
 ***NOTICE***: Refer to this [website](https://www.tensorflow.org/install/source) to comfirm to install which version of BAZEL according to tenforflow version.
 ### Step2:Compile tensorflow from source file
 #### Refer to this [webside](https://devtalk.nvidia.com/default/topic/1055131/jetson-agx-xavier/building-tensorflow-1-13-on-jetson-xavier/) to set configurtion,build tensorflow and set environment path.May be it will take at least 6 hours to build.
-
+### Step3: Set up the environmet and copy files to the specified path.
+#### Refer to this [tensorflow-go official website](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/go/README.md) to compile tensorflow-gpu
 Conclusion
 =================================
 It must take version of each package into consideration!! If you choose the wrong version, it will not work and occur many errors!
